@@ -3,7 +3,7 @@ This is a simple image generator built with Node.js and Express that uses OpenAI
 <br />
 <br />
 
-https://user-images.githubusercontent.com/78023954/214286153-fc756143-095c-4191-a771-bc12934457a9.mp4
+https://user-images.githubusercontent.com/78023954/214371423-f14ec6d8-1b9f-47f8-bd08-e666ece4dba3.mp4
 
 A web App for generating one-of-a-kind images based on a prompt. A prompt is a short description of what you want the image to be. For Example if you want image of a Polar bear eating Ice cream then you can type this "Polar bear having Ice cream"  in the text box to generate the image.
 Ready to give it a try?
